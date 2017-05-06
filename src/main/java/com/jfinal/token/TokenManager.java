@@ -52,7 +52,7 @@ public class TokenManager {
 	
 	/**
 	 * Create Token.
-	 * @param Controller
+	 * @param controller
 	 * @param tokenName token name
 	 * @param secondsOfTimeOut seconds of time out, for ITokenCache only.
 	 */
